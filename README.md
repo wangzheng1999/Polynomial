@@ -1,1 +1,1 @@
-# Polynomial
+  As you see,here are several operations on a polynomial.They are just some simple operations,and there are many aspects which needs improving.If you have some good ideas,welcome to join me,I'd be very thankful to accept your thoughts.
